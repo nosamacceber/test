@@ -1,10 +1,10 @@
 ---
-title: 'A/B testing suite for pet hospitals'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'Online course for assistant professors'
+excerpt: 'On Track for Tenure is an online course for tenure-track assistant professors that teaches them how to create an actionable pre-tenure roadmap so that they have the clarity and direction they need to feel confident in their ability to earn promotion and tenure.'
 coverImage: '/assets/posts/abtesting/cover.svg'
 date: '2022-06-07T05:35:07.322Z'
 author:
-  name: Annie Apple
+  name: Becca Mason
   picture: '/assets/blog/authors/annie.svg'
 ogImage:
   url: '/assets/posts/abtesting/cover.svg'
